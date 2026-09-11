@@ -1,0 +1,7 @@
+fruits = set()
+fruits.add("Apple")
+fruits.add("Mango")
+fruits.add("Grapes")
+fruits.add("Guava")
+fruits.add("Dates")
+print(fruits)

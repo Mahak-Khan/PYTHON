@@ -1,0 +1,7 @@
+n1 = float(input("Enter first number:"))
+n2 = float(input("Enter second number:"))
+print("Sum is:", n1 + n2)
+print("Diff is:", n1 - n2)
+print("Mul is:", n1 * n2)
+print("Div is:", n1 / n2)
+print("Rem is:", n1 % n2)
