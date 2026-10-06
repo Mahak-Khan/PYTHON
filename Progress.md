@@ -61,3 +61,13 @@ Topics:
 - For Loop
 - Range Function
 - Pass Statement
+
+30/09/26 - Functions & Recursion 👍
+
+Topics:
+- Functions in Python
+- Parameters & Arguments
+- Types of Functions
+- Default Parameters
+- Recursion
+- Call Stack (Basic)to
